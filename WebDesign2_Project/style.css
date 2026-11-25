@@ -1,0 +1,13 @@
+/* style.css - small custom tweaks on top of Bootstrap */
+
+.login-card {
+    max-width: 420px;
+}
+
+.stat-card {
+    border-left: 4px solid #0d6efd;
+}
+
+.table-actions .btn {
+    margin-right: 0.25rem;
+}
